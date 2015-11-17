@@ -1,0 +1,23 @@
+name: Publish
+favicon: null
+layout_spectrum: 0.4967489433474839
+typography_spectrum: 0.21166135650128126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5647896844893694
+  lightness: 0.038930489448830485
+  saturation: 0.08863767981529236
+  rhythmicContrast: 0.6530570823233575
+purpose: []
